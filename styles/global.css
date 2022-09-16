@@ -67,7 +67,7 @@ body {
     background-size: cover;
     background-position: center;
     font-weight: 700;
-    height: 522px;
+    height: calc (100vh - 100px);
     font-size: 70px;
     color: #fff;
     display:flex;
